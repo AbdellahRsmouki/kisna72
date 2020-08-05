@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently building tooling to enable State of Colorado to manage and share the enormous amount of data they collect.
+- 😄 Pronouns: he/him
+- 🌏🪐 I love all things that fly in and out of our atmosphere.. Ask me about what SpaceX is upto these days! 
