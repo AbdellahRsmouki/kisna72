@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently building tooling to enable State of Colorado to manage and share the enormous amount of data they collect.
+- 🔭 I’m currently building tooling to enable facebook/oculus/instagram users to make money off of those tools. 
 - 😄 Pronouns: he/him
 - 🌏🪐 I love all things that fly in and out of our atmosphere.. Ask me about what SpaceX is upto these days! 
